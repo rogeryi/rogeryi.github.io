@@ -1,8 +1,7 @@
 ---
 layout: page
+title: How Rendering Work (in WebKit and Blink)
 ---
-
-# How Rendering Work (in WebKit and Blink)
 
 Tags: WebKit Blink Rendering
 
